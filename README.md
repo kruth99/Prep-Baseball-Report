@@ -1,2 +1,2 @@
 # Prep-Baseball-Report
-Here is the project for my Prep Baseball Report Project
+Here is the project for my Prep Baseball Report Project. I used the baseballr package to recieve the data from the baseball savant website. I stored all the data in RDATA files. I read in the data in the data loading file, and in the data cleaning file I cleaned the data to make it look good. I then created a rshiny app inside of the PBR final project. I was able to create this project on my local server and I have the code in the file, but unfortunately I have enountered issues when moving this to the server.
